@@ -5,6 +5,7 @@ A terminal based library managing program with various sections to get book as p
 *Menus:
 ---------
 Available Section => Displays the available genres in the library.
+
 Inside Section => Choose from the available book, return books, and more.
 
 *Inside Section Features:
