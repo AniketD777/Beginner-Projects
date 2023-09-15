@@ -1,0 +1,51 @@
+body
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("https://images5.alphacoders.com/628/628302.jpg");
+    background-size: cover; /*To avoid the background image repetition and set it as whole*/
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: center;
+}
+
+h1
+{
+    color:goldenrod;
+    font-size: 80px;
+}
+
+#message-el
+{
+    font-style:italic;
+}
+
+p
+{
+    font-size: 30px;
+}
+
+button
+{
+    color: rgb(189, 17, 17);
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.btn:hover
+{
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.btn:active {
+    background-color: whitesmoke;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
