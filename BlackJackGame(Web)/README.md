@@ -1,4 +1,4 @@
-#Description
+# Description
 
 A simple cards game where the player is given chance until the total is less than 21 depending on the cards being picked from a randomly shuffled deck. If the total sums upto exactly 21 (Obviously by luck), the player wins else if more than 21 then the player loses.  
 
